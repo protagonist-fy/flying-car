@@ -1,0 +1,5 @@
+requests
+mnemonic
+bip-utils
+tronpy
+colorama
